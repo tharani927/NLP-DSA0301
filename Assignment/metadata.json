@@ -1,0 +1,6 @@
+{
+  "name": "Intelligent Support Ticket NLP System",
+  "description": "An end-to-end NLP system for cleaning, morphological analysis, POS tagging, TF-IDF vs BM25 information retrieval, and quantitative evaluation on customer support tickets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
